@@ -15,6 +15,7 @@ def bootstrap():
     app.register_blueprint(index_blueprint)
     return app
 
+
 def load_app_config(app):
     app.config.from_object("config.app.default")
     app.config.from_envvar("APP_CONFIG", silent=True)

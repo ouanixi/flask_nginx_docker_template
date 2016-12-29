@@ -13,3 +13,4 @@ SQLAlchemy==1.1.4
 uWSGI==2.0.11.2
 Werkzeug==0.11.11
 psycopg2==2.6
+pytest==2.9.2
