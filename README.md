@@ -1,2 +1,4 @@
-# inf-classifier
-Classifier for informative vs non-informative app reviews
+# Template Project using Flask, Nginx, uWSGI and Postgresql
+
+Inspired from this repository:
+https://github.com/realpython/orchestrating-docker
